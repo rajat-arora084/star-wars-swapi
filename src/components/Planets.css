@@ -1,0 +1,48 @@
+.planets__main {
+  margin-left: 15%;
+  margin-top: 20px;
+  text-align: left;
+  color: white;
+}
+
+.people__main {
+  margin-left: 15%;
+  margin-top: 20px;
+  text-align: left;
+  color: white;
+}
+
+.page__heading {
+  display: flex;
+}
+
+.card {
+  padding: 8px 16px;
+  border-radius: 20px;
+  background-color: #1b1b1b;
+  margin: 16px 0px;
+  width: 75%;
+}
+
+.card p {
+  margin: 6px 0;
+  color: #999;
+}
+
+.card h3 {
+  color: #ffff57;
+  margin-bottom: 10px;
+}
+
+.buttons__btn {
+  text-align: center;
+  width: fit-content;
+  height: 18px;
+  margin-left: 15px;
+  margin-top: 27px;
+}
+
+.buttons__currentPage {
+  margin-left: 15px;
+  margin-top: 27px;
+}
